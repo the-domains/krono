@@ -1,0 +1,14 @@
+layout_spectrum: 0.6684588
+color:
+  saturation: 0.7741935
+  lightness: 0.2258655
+  brandStrength: 0.7311828
+  brandColors:
+    - '#1F1D1D'
+    - '#FFFFFF'
+    - '#837973'
+    - '#ACB6B8'
+    - '#FDB711'
+  rhythmicContrast: 0.6971326
+typography_spectrum: 1
+name: 'KRONO '
